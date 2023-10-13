@@ -1,2 +1,2 @@
 # blogstrapi
- 一个blog的后台
+ 一个strapi的blog的后台
